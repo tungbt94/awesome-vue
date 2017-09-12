@@ -546,8 +546,10 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [PipQuest](http://pipquest.gregorterrill.com) - A retro-style puzzle game built in Vue
   - [Matryx](https://matryx.ai/) - A decentralized collaboration platform.
   - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - An app help build fast and easy multiple beautiful resumes and create your best CV 
-### Interactive Experiences
+  - [Tamiat](https://github.com/tamiat/tamiat) - An frontend CMS powered by Vue 2.0 & Firebase
 
+
+### Interactive Experiences
  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
  - [Facebook NewsFeed](https://newsfeed.fb.com/)
  - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
