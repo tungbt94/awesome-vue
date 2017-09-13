@@ -1229,6 +1229,7 @@ Tooltips / popovers
  - [vue-resource-mock](https://github.com/noru/vue-resource-mock) - A helper to mock your http response, based on vue-resource's interceptor.
  - [vue-async-data-2](https://github.com/kamijin-fanta/vue-async-data) - Async data loading plugin for Vue.js.
  - [vue-api-request](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast and easy to implement.
+ - [vue-rest](https://github.com/kimuraz/vue-rest) - A plugin for using vue + axios for REST API consumption
 
 ### i18n
 
